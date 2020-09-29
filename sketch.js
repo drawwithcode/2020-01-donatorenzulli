@@ -8,7 +8,7 @@ function setup() {
   background('#333333');
   ellipseMode(CENTER)
   angleMode(DEGREES);
-  frameRate(120);
+  frameRate(90);
 }
 
 function draw() {
